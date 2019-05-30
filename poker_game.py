@@ -23,13 +23,7 @@ import random
 suit = ['c','d','h','s']
 rank = ['A','2','3','4','5','6','7','8','9','10','J','Q','K']
 
-#create a deck of cards 
 
-#from the deck of cards assign one to each player one at a time 
-#pop the card that has already been used 
-
-
-#work on 
 
 
 
