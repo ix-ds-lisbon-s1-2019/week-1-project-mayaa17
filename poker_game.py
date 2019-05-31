@@ -19,7 +19,7 @@ for player in range(number_of_players):
     
 #creating the cards 
 
-cards = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A']
+cards = [2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A']*4 
 
 player_cards = [] 
 
@@ -29,3 +29,4 @@ for p in range(number_of_players):
 
 print(player_cards) 
 
+#couldn't figure out the rest especially how to compare cards 
