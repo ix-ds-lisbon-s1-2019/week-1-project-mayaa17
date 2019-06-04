@@ -21,10 +21,12 @@ Blog is live but it is missing an explanation of the inner workings of the poker
 
 Poker game executes but gets stuck as follows:
 
-```Please enter number of players:
+```
+Please enter number of players:
 2
 Please enter player name:F
 Please enter player name:Q
 [[2, 6, 'J', 8, 3], ['Q', 'Q', 'K', 'J', 'A']]
 Please enter number of players:
-2```
+2
+```
